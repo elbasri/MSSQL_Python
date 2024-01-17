@@ -1,0 +1,5 @@
+server = '10.10.1.10,1433'
+database = 'AsfarMaghrib'
+username = 'sa'
+password = 'NCR123@457'
+conn_str = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}'
